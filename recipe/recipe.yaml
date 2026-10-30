@@ -1,5 +1,5 @@
 context:
-  version: "7.2.3"
+  version: "7.3.1"
 
 package:
   name: webpack-cli
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/webpack-cli/-/webpack-cli-${{ version }}.tgz
-  sha256: fa877796e6e582994c336a38143a12c6c229e70684698aea6008d93d0f4fbc5d
+  sha256: 833aab597a1f8748bd943a961763fe4a5640c7efa6c6e5c0e88a497db90c42dd
 
 build:
   number: 0
